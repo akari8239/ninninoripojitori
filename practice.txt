@@ -1,1 +1,4 @@
 mkdir git-practice
+git checkout master
+pull origin feature-branch
+git add textfile
